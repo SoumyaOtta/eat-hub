@@ -1,7 +1,5 @@
 # 🍳 Eat Hub - Modern Recipe App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a59ff03f-ab4d-4779-ac4d-e1c4ead14ba7/deploy-status)](https://soumya-recipe-hub.windsurf.build)
-
 A modern, responsive recipe website built with React and SASS. Features multiple themes, dynamic recipe browsing, and an elegant user interface.
 
 ![Eat Hub Preview](preview.png)
@@ -24,4 +22,4 @@ A modern, responsive recipe website built with React and SASS. Features multiple
 
 ## 🚀 Live Demo
 
-Check out the live application: [Eat Hub](https://soumya-recipe-hub.windsurf.build)
+Check out the live application: [Eat Hub](https://soumyaotta.github.io/eat-hub)

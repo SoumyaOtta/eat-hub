@@ -2,9 +2,8 @@
   "name": "food-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/eat-hub",
+  "homepage": "https://soumyaotta.github.io/eat-hub",
   "dependencies": {
-
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
@@ -24,7 +23,7 @@
     "build": "CI=false react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    },
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -44,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.3.0"
   }
 }
