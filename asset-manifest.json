@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eat-hub/static/css/main.cce639ed.css",
+    "main.js": "/eat-hub/static/js/main.9ef408bf.js",
+    "index.html": "/eat-hub/index.html",
+    "main.cce639ed.css.map": "/eat-hub/static/css/main.cce639ed.css.map",
+    "main.9ef408bf.js.map": "/eat-hub/static/js/main.9ef408bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce639ed.css",
+    "static/js/main.9ef408bf.js"
+  ]
+}
