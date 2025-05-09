@@ -1,0 +1,22 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "18"
+  PUBLIC_URL = "/eat-hub"
+
+[[redirects]]
+  from = "/eat-hub/*"
+  to = "/eat-hub/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/eat-hub/index.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
